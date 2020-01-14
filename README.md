@@ -1,7 +1,58 @@
 # R-Books
 
-Useful R books, written with the [bookdown pkg](https://bookdown.org/)
+Useful R books, by [Packt](https://www.packtpub.com/?utm_source=r.github.com&utm_medium=referral&utm_campaign=Outreachdollar5)
 
+
+- [Practical Neural Networks and Deep Learning in R [Video]](https://www.packtpub.com/data/practical-neural-networks-and-deep-learning-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15858dollar5)This course will give you a robust grounding in the main aspects of practical neural networks and deep learning. You will dig deep into the data science features of R that will give you a one-of-a-kind grounding in data science. You will go all the way from carrying out data reading & cleaning to finally implementing powerful Neural Networks and Deep Learning algorithms and evaluating their performance using R. With this course, you’ll have the keys to the entire R Neural Networks and Deep Learning kingdom! You’ll start by absorbing the most valuable R Data Science basics and techniques. Discover easy-to-understand, hands-on methods to simplify and address even the most difficult concepts in R. You will see how to implement the methods using real data obtained from different sources. After taking this course, you’ll be able to easily use data science packages like the caret, H2O, mxnet to work with real data in R. You’ll even understand the underlying concepts to understand what algorithms and methods are best suited for your data.
+
+- [Hands-On Reinforcement Learning with R](https://www.packtpub.com/data/hands-on-reinforcement-learning-with-r?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachB12083dollar5)Reinforcement Learning is an exciting part of machine learning. It has uses in technology from autonomous cars to game playing, and creates algorithms that can adapt to environmental changes. This book helps to understand how to implement RL with R, and explores interesting practical examples, such as using tabular Q-learning to control robots.
+
+- [Species Distribution Models with GIS and Machine Learning in R [Video]](https://www.packtpub.com/business-other/species-distribution-models-with-gis-and-machine-learning-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15860dollar5) In this course, you’ll work with real-world spatial data from Peninsular Malaysia to gain hands-on experience with mapping habitat suitability in conjunction with classical SDM models, such as MaxENT and Bioclim, and machine learning alternatives, such as random forests. The course will ensure that you are equipped to put spatial data and machine learning analysis into practice right away. You’ll have developed the skills necessary for working with ecological data and impress  potential employers with your GIS and machine learning skills in R. Throughout the course, you’ll learn how to map suitable habitats for species using R. You’ll also explore common ecological modeling techniques and species distribution modeling (SDM) using real-life data. As you advance, the course will guide you in implementing some of the common Geographic Information Systems (GIS) and spatial data analysis techniques in R and use it to access ecological data.  You’ll perform common GIS and data analysis tasks related to SDMs, including accessing species-presence data, and get to grips with classical SDM techniques.
+
+- [Advanced Deep Learning with R](https://www.packtpub.com/data/advanced-deep-learning-with-r?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachB11695dollar5) This book will help readers to apply deep learning algorithms in R using advanced examples. You will cover variants of neural network models such as ANN, CNN, RNN, LSTM, and more using expert techniques. Readers will make use of popular deep learning libraries such as Keras-R, Tensorflow-R, and more to implement AI models.
+
+- [Complete Data Wrangling and Data Visualization in R [Video]](https://www.packtpub.com/data/complete-data-wrangling-and-data-visualization-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15947dollar5) This course is a sure-fire way to acquire the knowledge and statistical data analysis wrangling and visualization skills you need.
+HERE IS WHAT THIS COURSE WILL DO FOR YOU:
+• It will introduce some of the most important data visualization concepts to you in a practical manner so that you can apply these concepts to practical data analysis and interpretation.
+• You will also be able to decide which wrangling and visualization techniques are best suited to answering your research questions and applicable to your data, and you'll interpret the results.
+• The course will mostly focus on helping you implement different techniques on real-life data such as Olympic and Nobel Prize winners
+• After each video, you will learn a new concept or technique which you can apply to your own projects immediately! You'll reinforce your knowledge through practical quizzes and assignments
+
+- [Harness the Power of Tidyverse for Data Preprocessing and Visualisation in R [Video]](https://www.packtpub.com/data/harness-the-power-of-tidyverse-for-data-preprocessing-and-visualisation-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15948dollar5) This is your roadmap to becoming highly proficient in data preprocessing, data wrangling, and data visualization using two of the most in-demand R data science packages.
+ What this course will do for you:
+•It will take you from a basic level to a level where you'll perform some of the most common data wrangling tasks in R—with two of the most well-known R data science packages: Tidyverse and dplyr.
+•It will equip you to use some of the most important R data wrangling and visualization packages such as dplyr and ggplot2.
+•It will Introduce you, in a practical way, to some of the most important data visualization concepts so that you can apply them to practical data analysis and interpretation.
+•You will also be able to decide which wrangling and visualization techniques are best suited to answering your research questions and most applicable to your data, so that you can interpret the results.
+•The course will mostly focus on helping you implement different techniques on real-life data
+After each video, you will have learned a new concept or technique and will be able to apply it to your own projects immediately!
+
+- [Regression Analysis for Statistics and Machine Learning in R [Video]](https://www.packtpub.com/programming/regression-analysis-for-statistics-and-machine-learning-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15861dollar5) With so many R Statistics and Machine Learning courses around, why enroll for this?
+Regression analysis is one of the central aspects of both statistical- and machine learning-based analysis. This course will teach you regression analysis for both statistical data analysis and machine learning in R in a practical, hands-on way. It explores relevant concepts in a practical way, from basic to expert level. This course can help you achieve better grades, gain new analysis tools for your academic career, implement your knowledge in a work setting, and make business forecasting-related decisions. You will go all the way from implementing and inferring simple OLS (Ordinary Least Square) regression models to dealing with issues of multicollinearity in regression to machine learning-based regression models.
+Become a Regression Analysis Expert and Harness the Power of R for Your Analysis
+• Get started with R and RStudio. Install these on your system, learn to load packages, and read in different types of data in R
+• Carry out data cleaning and data visualization using R
+• Implement Ordinary Least Square (OLS) regression in R and learn how to interpret the results.
+• Learn how to deal with multicollinearity both through the variable selection and regularization techniques such as ridge regression
+• Carry out variable and regression model selection using both statistical and machine learning techniques, including using cross-validation methods.
+• Evaluate the regression model accuracy
+• Implement Generalized Linear Models (GLMs) such as logistic regression and Poisson regression. Use logistic regression as a binary classifier to distinguish between male and female voices.
+• Use non-parametric techniques such as Generalized Additive Models (GAMs) to work with non-linear and non-parametric data.
+• Work with tree-based machine learning models
+
+- [Clustering and Classification with Machine Learning in R [Video]](https://www.packtpub.com/data/clustering-and-classification-with-machine-learning-in-r-video?utm_source=r.github.com&utm_medium=referral&utm_campaign=OutreachV15857dollar5) This course is your complete guide to both supervised and unsupervised learning using R. This course covers all the main aspects of practical data science; if you take this course, there is no need to take other courses or buy books on R-based data science. In this age of big data, companies across the Globe use R to sift through the avalanche of information at their disposal. By becoming proficient in unsupervised and supervised learning in R, you can give your company a competitive edge and take your career to the next level.
+Over the course of research, the author realized that almost all the R data science courses and books out there do take account of the multidimensional nature of the topic. This course will give you a robust grounding in the main aspects of machine learning: clustering and classification. Unlike other R instructors, the author digs deep into R's machine learning features and give you a one-of-a-kind grounding in data science! You will go all the way from carrying out data reading & cleaning to machine learning, to finally implementing powerful machine learning algorithms and evaluating their performance via R.
+The following topics will be covered: -
+• A full introduction to the R Framework for data science
+• Data structures and reading in R, including CSV, Excel, and HTML data
+• How to pre-process and clean data by removing NAs/No data, visualization
+• Machine learning, supervised learning, and unsupervised learning in R
+• Model building and selection and much more!
+The course will help you implement methods using real data obtained from different sources. Many courses use made-up data that does not empower students to implement R-based data science in real life. After taking this course, you'll easily use data science packages such as Caret to work with real data in R. You'll even understand concepts such as unsupervised learning, dimension reduction, and supervised learning.
+
+
+
+Useful R books, written with the [bookdown pkg](https://bookdown.org/)
   
 - [bookdown](https://bookdown.org/yihui/bookdown/) bookdown: Authoring Books and Technical Documents with R Markdown.
 This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
